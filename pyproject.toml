@@ -1,0 +1,11 @@
+[project]
+name = "dspercolation"
+version = "0.1.0"
+description = "final assignment for 0AL5503"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.3.0",
+    "pydualsense>=0.7.5",
+    "pygame>=2.6.1",
+]
